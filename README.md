@@ -11,7 +11,8 @@ Commands to Install -
         git clone https://github.com/HackWithAJ/EmailBomber.git
 
     For Linux Users - 
-        git clone 
-        python3 https://github.com/HackWithAJ/EmailBomber.git
+        git clone https://github.com/HackWithAJ/EmailBomber.git
+        cd EmailBomber
+        python3 EmailBomber.py
 
 ## Contact - <a href="https://linktr.ee/hackwithaj"> click here</a>
