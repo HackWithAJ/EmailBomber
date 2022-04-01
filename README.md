@@ -8,10 +8,10 @@ Commands to Install -
     For Turmux Users - 
         pkg install git
         pkg install python
-        git clone 
+        git clone https://github.com/HackWithAJ/EmailBomber.git
 
     For Linux Users - 
         git clone 
-        python3 
+        python3 https://github.com/HackWithAJ/EmailBomber.git
 
-## Contact <a href="https://linktr.ee/hackwithaj"> click here</a>
+## Contact - <a href="https://linktr.ee/hackwithaj"> click here</a>
