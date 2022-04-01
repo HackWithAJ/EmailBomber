@@ -2,6 +2,7 @@
 
 ![made-by-hackers](https://user-images.githubusercontent.com/79195338/161228246-6ba071af-a1b1-4a95-8f40-278e8e995dce.svg)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+![use-wisely](https://user-images.githubusercontent.com/79195338/161229028-2d3acfde-8028-45bc-ba1a-a397f0bc46e3.svg)
 
 Email Bomber using SMTP!!
     SMTP stands for Simple Mail Transfer Protocol and this server is used to send mails to users.  
