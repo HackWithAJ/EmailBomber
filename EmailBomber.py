@@ -11,7 +11,7 @@ print(' |  _| | |\/| | / _ \  | || |     |  _ \| | | | |\/| |  _ \|  _| | |_) |'
 print(' | |___| |  | |/ ___ \ | || |___  | |_) | |_| | |  | | |_) | |___|  _ < ')
 print(' |_____|_|  |_/_/   \_\___|_____| |____/ \___/|_|  |_|____/|_____|_| \_\ ')
 print('\n')
-print('                                                    Authors - HackWithAJ and SudoUday                ')                                                                       
+print('                                                    Authors - HackWithAJ             ')                                                                       
 print(YELLOW)
 print('                                    !!ALERT!!                                               ')
 print('                          !!only for Educational purpose!!                                   ')
